@@ -1,4 +1,5 @@
 # He inicializado un repositorio de git
+### Primeros pasos
 
 1. He creado un repositorio en git (laboratorio-modulo-0) y lo he clonado en visual studio code
 2. He creado un archico readme.md en vsc
