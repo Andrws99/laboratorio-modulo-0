@@ -11,4 +11,7 @@
 8. Para subir los cambios de la rama main a Git he usado "git push -u origin main" 
 
 ### Hacer un commit y un push
-1. He creado un archivo "archivo.txt" y he escrito un texto en el.
+1. He creado un archivo "archivo.txt" y he escrito un texto en el
+2. Para añadir el archivo nuevo al staging he hecho un "git status" y después un "git add .", y otra vez "git status" para comprobar que se ha añadido el archivo correctamente. 
+3. Para rear el commit he hecho git commit -m "Añadido archivo.txt con texto de prueba"
+4. Para subir los cambios a Git he hecho "git push origin main" 
