@@ -16,7 +16,7 @@
 3. Para rear el commit he hecho git commit -m "Añadido archivo.txt con texto de prueba"
 4. Para subir los cambios a Git he hecho "git push origin main" 
 
-## Crear una rama 
+### Crear una rama 
 1. En la terminal he ejecutado "git branch development" para crear la rama development
 2. Para cambiar a la rama development he hecho un "git checkout development" 
 3. He modificado el archivo.txt desde la rama development
