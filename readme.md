@@ -15,3 +15,7 @@
 2. Para añadir el archivo nuevo al staging he hecho un "git status" y después un "git add .", y otra vez "git status" para comprobar que se ha añadido el archivo correctamente. 
 3. Para rear el commit he hecho git commit -m "Añadido archivo.txt con texto de prueba"
 4. Para subir los cambios a Git he hecho "git push origin main" 
+
+### Hacer un merge
+1. Para cambiar de la rama development a la rama main he hecho "git checkout main" 
+2. 
