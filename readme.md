@@ -24,4 +24,6 @@
 5. Para subir los cambios a Git he hecho "git push -u origin development" 
 
 ### Hacer un merge
-1. 
+1. Para cambiar de la rama development a la rama main he hecho "git checkout main" 
+2. Para unir las ramas he hecho " git merge development" 
+3. Una vez hecho el merge, he subido los cambios a Git con " git push origin main" 
