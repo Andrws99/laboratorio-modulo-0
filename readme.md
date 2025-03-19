@@ -21,4 +21,4 @@
 2. Para cambiar a la rama development he hecho un "git checkout development" 
 3. He modificado el archivo.txt desde la rama development
 4. Para añadir los cambios y hacer el commit en la rama development he hecho primero un git add . y después un commit -m "Modificaciones en la rama development" 
-5. Para subir los cambios a Git 
+5. Para subir los cambios a Git he hecho "git push -u origin development" 
